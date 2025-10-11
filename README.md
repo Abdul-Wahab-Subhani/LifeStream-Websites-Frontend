@@ -158,10 +158,8 @@ We welcome contributions to improve LifeStream! Here's how you can help:
 
 ## 📧 Contact & Support
 
-- **Project Team**: BSSE Students, Semester 5
-- **Course**: Business Process Engineering
-- **Institution**: [Your University Name]
-- **Email**: [contact-email]
+- **Name**:Abdul Wahab Subhani
+- **Email**: [abdulwahabsubhani2003@gmail.com]
 - **Issues**: Please report bugs and feature requests via the contact form
 
 ## 📄 License
