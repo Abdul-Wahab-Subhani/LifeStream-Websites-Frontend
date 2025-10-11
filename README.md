@@ -164,10 +164,10 @@ We welcome contributions to improve LifeStream! Here's how you can help:
 
 ## 📄 License
 
-This project is created for educational purposes as part of the Business Process Engineering curriculum. All rights reserved to the development team and educational institution.
+This project is created for educational purposes . Feel Free to use this project our if you want to change anything in this you can do it.
 
 ## 🙏 Acknowledgments
-
+.
 - **Bootstrap Team** - For the responsive framework
 - **Font Awesome** - For the comprehensive icon library
 - **MDBootstrap** - For Material Design components
