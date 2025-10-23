@@ -87,7 +87,6 @@ LifeStream is a modern, responsive web application that facilitates blood donati
 ---
 
 ## 📁 Project Structure
-
 LifeStream-Project/
 ├── 📄 HTML Pages
 │ ├── index.html # Homepage
