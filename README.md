@@ -21,18 +21,28 @@
 
 Below are some key pages from the **LifeStream** website interface:
 
-| **Page** | **Preview** |
-|-----------|--------------|
-| 🏠 **Home Page** | ![Home](images/screenshots/home.png) |
-| 🎯 **Campaigns** | ![Campaigns](images/screenshots/campaigns.png) |
-| 📅 **Make Appointment** | ![Make Appointment](images/screenshots/appointment.png) |
-| 🩸 **Organize a Camp** | ![Organize Camp](images/screenshots/organize-camp.png) |
-| 🙋‍♂️ **Volunteer Registration** | ![Volunteer](images/screenshots/volunteer.png) |
-| 🔍 **Blood Availability** | ![Blood Availability](images/screenshots/blood-availability.png) |
-| 🧾 **Donation History** | ![Donation History](images/screenshots/history.png) |
-| ❓ **FAQ** | ![FAQ](images/screenshots/faq.png) |
-| 🔑 **Sign In** | ![Sign In](images/screenshots/sign-in.png) |
-| 🆕 **Sign Up** | ![Sign Up](images/screenshots/sign-up.png) |
+ **Page Preview** 
+
+ 🏠 **Home Page** 
+ ![Home](images/screenshots/home.png) 
+ 🎯 **Campaigns** 
+ ![Campaigns](images/screenshots/campaigns.png) 
+ 📅 **Make Appointment**  
+ ![Make Appointment](images/screenshots/appointment.png) 
+ 🩸 **Organize a Camp**  
+ ![Organize Camp](images/screenshots/organize-camp.png) 
+ 🙋‍♂️ **Volunteer Registration** 
+ ![Volunteer](images/screenshots/volunteer.png) 
+ 🔍 **Blood Availability** 
+ ![Blood Availability](images/screenshots/blood-availability.png) 
+ 🧾 **Donation History**
+ ![Donation History](images/screenshots/history.png) 
+ ❓ **FAQ** 
+ ![FAQ](images/screenshots/faq.png) 
+ 🔑 **Sign In** 
+ ![Sign In](images/screenshots/sign-in.png) 
+ 🆕 **Sign Up** 
+ ![Sign Up](images/screenshots/sign-up.png) 
 
 > 🖼️ *You can place all screenshots inside:*  
 > `LifeStream-Project/images/screenshots/`
