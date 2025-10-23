@@ -24,21 +24,21 @@ Below are some key pages from the **LifeStream** website interface:
  **Page Preview** 
 
  🏠 **Home Page** 
- ![Home](images/screenshots/home.png) 
+ ![Home](images/screenshots/Home-Page.png) 
  🎯 **Campaigns** 
- ![Campaigns](images/screenshots/campaigns.png) 
+ ![Campaigns](images/screenshots/Campaigns-Page.png) 
  📅 **Make Appointment**  
- ![Make Appointment](images/screenshots/appointment.png) 
+ ![Make Appointment](images/screenshots/Make-Appointment.png) 
  🩸 **Organize a Camp**  
- ![Organize Camp](images/screenshots/organize-camp.png) 
+ ![Organize Camp](images/screenshots/Organize-camp.png) 
  🙋‍♂️ **Volunteer Registration** 
- ![Volunteer](images/screenshots/volunteer.png) 
+ ![Volunteer](images/screenshots/Volunteer.png) 
  🔍 **Blood Availability** 
- ![Blood Availability](images/screenshots/blood-availability.png) 
+ ![Blood Availability](images/screenshots/Blood-Availability.png) 
  🧾 **Donation History**
- ![Donation History](images/screenshots/history.png) 
+ ![Donation History](images/screenshots/History.png) 
  ❓ **FAQ** 
- ![FAQ](images/screenshots/faq.png) 
+ ![FAQ](images/screenshots/FAQ.png) 
  🔑 **Sign In** 
  ![Sign In](images/screenshots/sign-in.png) 
  🆕 **Sign Up** 
