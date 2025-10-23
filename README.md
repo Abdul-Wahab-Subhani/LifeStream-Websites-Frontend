@@ -88,34 +88,34 @@ LifeStream is a modern, responsive web application that facilitates blood donati
 
 ## 📁 Project Structure
 LifeStream-Project/
-├── 📄 HTML Pages
-│ ├── index.html # Homepage
-│ ├── About-Us.html # Organization information
-│ ├── Appointment.html # Appointment booking
-│ ├── Blog.html # Educational blog
-│ ├── BloodAvailability.html # Blood search functionality
-│ ├── Campaigns.html # Blood drive campaigns
-│ ├── Contact-Us.html # Contact information
-│ ├── Donation-Eligibility-Checker.html # Eligibility assessment
-│ ├── DonationHistory.html # Donor history tracking
-│ ├── FAQ.html # Frequently asked questions
-│ ├── Feedback.html # User feedback system
-│ ├── News.html # Latest news and updates
-│ ├── Organize-Camp.html # Campaign organization
-│ ├── Sign-In.html # User authentication
-│ ├── Sign-Up.html # User registration
-│ └── Volunteer.html # Volunteer registration
-├── 🎨 Assets
-│ ├── css/
-│ │ └── style.css # Main stylesheet
-│ ├── javascript/
-│ │ └── form.js # Form validation scripts
-│ ├── images/
-│ │ ├── icon.png
-│ │ └── screenshots/ # Folder for screenshots
-│ └── video/
-│ └── mission-video.mp4 # Promotional content
-└── 📖 README.md # Project documentation
+├── HTML Pages/
+│   ├── About-Us.html
+│   ├── Appointment.html
+│   ├── Blog.html
+│   ├── BloodAvailability.html
+│   ├── Campaigns.html
+│   ├── Contact-Us.html
+│   ├── Donation-Eligibility-Checker.html
+│   ├── DonationHistory.html
+│   ├── FAQ.html
+│   ├── Feedback.html
+│   ├── News.html
+│   ├── Organize-Camp.html
+│   ├── Sign-In.html
+│   ├── Sign-Up.html
+│   ├── Volunteer.html
+│   └── index.html
+├── Assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   ├── icon.png
+│   │   └── screenshots/
+│   ├── javascript/
+│   │   └── form.js
+│   └── video/
+│       └── mission-video.mp4
+└── README.md
 
 ---
 
