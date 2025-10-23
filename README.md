@@ -44,8 +44,6 @@ Below are some key pages from the **LifeStream** website interface:
  🆕 **Sign Up** 
  ![Sign Up](images/screenshots/sign-up.png) 
 
-> 🖼️ *You can place all screenshots inside:*  
-> `LifeStream-Project/images/screenshots/`
 
 ---
 
